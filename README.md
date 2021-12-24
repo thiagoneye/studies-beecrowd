@@ -1,2 +1,5 @@
 # beecrowd-programming
- Programming practice.
+
+Programming practice from the BeeCrowd website.
+
+https://www.beecrowd.com.br/
