@@ -1,6 +1,6 @@
 # Inputs
 
-a, b, c = input('Insira três números:').split()
+a, b, c = input('Enter three numbers::').split()
 a = float(a)
 b = float(b)
 c = float(c)
