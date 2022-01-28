@@ -15,7 +15,6 @@ do maior para o menor.
 -- DDL - Data Definition Language
 
 CREATE DATABASE beecrowd2988;
-
 USE beecrowd2988;
 
 CREATE TABLE teams (
