@@ -1,6 +1,6 @@
 # beecrowd-programming
 
-Programming practice from the BeeCrowd website.
+Programming practice (Competitive Programming) from the BeeCrowd website.
 
 https://www.beecrowd.com.br/
 
