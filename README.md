@@ -1,4 +1,4 @@
-# beecrowd-programming
+# studies-beecrowd
 
 Programming practice (Competitive Programming) from the BeeCrowd website.
 
